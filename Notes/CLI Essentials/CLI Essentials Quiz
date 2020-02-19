@@ -1,0 +1,30 @@
+1. What's a task that can be achieved with a CLI?
+  Answer: All of the above.
+  
+2. Which command is used to identify the logged-in username?
+  Answer: whoami
+  
+3. Which command is used to change directories in bash?
+  Answer: cd
+  
+4. Which command is used to list directory files in the shell?
+  Answer: ls
+  
+5. Which command is used to create empty files?
+  Answer: touch
+  
+6. Which command is used to remove a directory?
+  Answer: Both B and C.
+  
+7. Which command prints the contents of a file?
+  Answer: cat
+  
+8. Which command navigates back to a home directory?
+  Answer: cd
+  
+9. Which command navigates up one directory?
+  Answer: cd ..
+  
+10. Which command renames a file?
+  Answer: mv
+  

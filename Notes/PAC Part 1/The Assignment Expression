@@ -1,0 +1,9 @@
+- Assigning a Variable example:
+  "height_in_cm = 180"
+  
+  Explination:
+  + "height_in_cm": Variable Name
+  + "=": Assignment Operator
+  + "180": Expression
+- In Ruby, instead of calling these "Variables", we call them "Mutables". This means that the value that the name "points to" can be changed during the running of the program. Basically, the value can be changed. Same as Var in JavaScript.
+- If you want to set a constant in Ruby, instead of using "const" like we would in JavaScript, we would have to type the name in all-caps, just like "HEIGHT_IN_CM = 180". This value is now "Immutable", it means the value cannot be changed.

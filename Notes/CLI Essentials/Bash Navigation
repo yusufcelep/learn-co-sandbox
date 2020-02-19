@@ -1,0 +1,9 @@
+- What does CLI mean? It stands for Command Line Interface. Basically the terminal.
+- Review: Bash is a text-based interpreter that provides a command-line interface for controlling your computer (or operating system).
+- CLI term "Navigating" means what it implies, basically traveling between certain locations or folders. The route you take will be known as your "Path". Paths use / to show levels of "nesting." In other words, each level you dive deeper, each folder you enter will be seperatede by "/".
+- When you first open the terminal, your current location is referred to as "Home Directory". A users Home Directory is often written like: /Users/username or /home/username. The / on the far left of the path name means the very top of the file system "tree." This is caled the "Root" directory and contains all the "top-level directories", in a sense, the heart of the computer.
+- Identify your logged-in username with the command "whoami", this lets you see, as the name implies, which user account you're logged in to from the CLI.
+- Identify the "Current Working Directory" with the command "pwd" ("Print Working Directory"). This will return the path you have taken to get to where you're at right now, in other words, you can consider this your address. A shortcut for this is "cd ." meaning "the current directory I'm in"
+- Navigate up one directory in the file system using the command "cd ..", this, in technical terms, moves you up one level of nesting. In basic terms, this takes you back to your previous folder. It's a "go back" command.
+- The "cd" command stands for "Change Directory".
+- To Automatically go back to the "root" (remember, home directory, the locaton we first find ourselves in when we first open the terminal), we will use the command "cd ~". A shortcut for this is just typing "cd" or even "cd /"

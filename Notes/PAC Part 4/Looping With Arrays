@@ -1,0 +1,20 @@
+- An abstract method of looping with arrays:
+  def output_array_elements(array)
+   counter = 0
+ 
+    while array[counter] do
+      puts array[counter]
+      counter += 1
+   end
+  end
+  
+- Theres also using the array.length or .size method:
+  def output_array_elements(array)
+    counter = 0
+ 
+    while counter < array.length do
+      puts array[counter]
+      counter += 1
+    end
+  end
+  

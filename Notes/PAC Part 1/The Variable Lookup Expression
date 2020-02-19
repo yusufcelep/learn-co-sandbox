@@ -1,0 +1,3 @@
+- To lookup the value in a variable we simply type it. For example: 
+  "age = 32"
+  and when we type "age", we should see "32" on the screen.

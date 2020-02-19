@@ -1,0 +1,19 @@
+- To sort an array, we will use the ".sort" method. For Strings, this will order them alphabetically. For integers, this will order them numerically. An example:
+  array_name = ["element_b", "element_a", "element_c"]
+  array_name.sort
+- To reverse the order of an array, we will use the ".reverse" method. An example:
+  array_name = ["element_one", "element_two", "element_three"]
+  array_name.reverse
+- The ".first" method will return the first element of an array. An example:
+  array_name = ["element_one", "element_two", "element_three"]
+  array_name.first
+- The ".last" method will return the last element of an array. An example:
+  array_name = ["element_one", "element_two", "element_three"]
+  array_name.last
+- To find out if something is in an array, we will use the ".include?" method. This will return a boolean (true or false), an example:
+  array_name = ["element_one", "element_two", "element_three"]
+  array_name.include?("element_three")
+- To find the size of an array, we can use both ".size" and ".length" methods. An exapmle:
+  array_name = ["element_one", "element_two", "element_three"]
+  array_name.size
+  array_name.length

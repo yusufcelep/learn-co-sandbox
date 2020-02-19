@@ -1,0 +1,4 @@
+- To represent "Equality", we will use "==", a double equal sign.
+- To represent "Inequality", we will use "!=", which means "not equal"
+- To represent "And", we will use "&&", this is most commonly used in arguments or conditions to verify that multiple statements are all true.
+- To represent "Or", we will use "||", a "double-pipe", this is most commonly used to determine if one or more of the statements found in the argument are true.

@@ -1,0 +1,10 @@
+- Define "Expression": An expression in a programming language is like a sentence in a spoken language. Basically a line of code.
+- The book definition of "Expression" is a combination of information called data and symbols indicating how to combine data called operators.
+- Define "Evaluation": Evaluation is the process of interpreting an expression, according to rules, to produce a return value.
+- There are two parts to an expression: Data and Operators. In the "255 / 5" example, the data here would be "255" and "5", the operator would be "/". Some Basic Operators are:
+  + "+": Addition
+  + "-": Subtraction
+  + "*": Multiplication
+  + "/": Division
+  + "**": Exponentiation
+  + "()": Association (Expressions inside of () get evaluated earlier)

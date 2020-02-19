@@ -1,0 +1,14 @@
+- "Reserved Words" make Ruby do something else besides evaluate an expression. An example of reserved words would be "def", "if", "varchar", or "for".
+- "Data" is defined as the constants or values.
+- There are 5 "Scalar" (things that could be put on a scale) data types:
+  + "Integer"
+  + "Float"
+  + "Boolean"
+  + "String"
+  + "Symbol"
+- Identify an "Integer": Whole Numbers such as "-1, 0, 1, ..."
+- Identify a "Float": Decimals Number such as "-1.5, 0.5, ..."
+- Identify "Boolean" Values: To use these in Ruby expressions, you just type in "true" or "false"
+- Identify "String" Values: You create Strings by surrounding text in "" or ''.
+- Identify "Symbol" Values:  It's like a plain old "bare word" (human understandable), but with a ":" in front. It looks like ":i_am_a_symbol".
+- You can ask IRB for the data type of a value by adding ".class" at the end. An example: "10.class" would return "Integer".

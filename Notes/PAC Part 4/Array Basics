@@ -1,0 +1,27 @@
+- The Shovel Method adds items onto the end of an array using the code "<<". An example: 
+  array_name = ["element_one", "element_two"]
+  array_name << "element_three"
+  p array_name
+- The ".push" method, similar to the shovel method, will add an element to the end of an array. An example:
+  array_name = ["element_one", "element_two"]
+  array_name.push("element_three")
+  p array_name
+- The ".unshift" method will add an element to the beginning of an array. An example: 
+  array_name = ["element_one", "element_two"]
+  array_name.unshift("element_three")
+  p array_name
+- The ".pop" method will remove the last item from the end of the array. An example:
+  array_name = ["element_one", "element_two"]
+  array_name.pop
+  p array_name
+- The ".shift" method will remove the first item from the beginning of an array. An example:
+  array_name = ["element_one", "element_two"]
+  array_name.shift
+  p array_name
+- If you want to retrieve the index number for an element, we will use the ".index" method. An example:
+  array_name = ["element_one", "element_two"]
+  array_name.index("element_two")
+- If you want to update or change an element within the array, we will have to determine the index. An example:
+  picnic_ingrediants = ["Meat", "Bread", "Ball", "Vegetable"]
+  picnic_ingrediants[2] = "Drink"
+  p picnic_ingrediants 

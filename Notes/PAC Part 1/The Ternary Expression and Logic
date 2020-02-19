@@ -1,0 +1,5 @@
+- Definition of "Ternary Expression": An expression that can provide one of two values, based on the truth (or "Boolean value" of a third value). 
+- An example of how a ternary expression would be written is: "likely_to_rain = true"
+  "garmet = likely_to_rain ? "galoshes" : "sun hat""
+  (Here, we type "garment" to get the answer)
+- Note that the order will always be "true" : "false"

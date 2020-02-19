@@ -1,0 +1,29 @@
+1. Which command outputs a String with a newline character?
+  Answer: puts
+  
+2. Which command outputs a String with a return value?
+  Answer: p
+  
+3. Which character creates a comment in Ruby?
+  Answer: #
+
+4. In the terminal, which key combination interrupts looping code?
+  Answer: ctrl+c
+  
+5. What does the code snippet below evaluate to?
+  Answer: 0 1 2
+  
+6. What does the code snippet below evaluate to?
+  Answer: It’s a scorcher!
+  
+7. What does the nil value mean?
+  Answer: No Value
+  
+8. Which of these are a core category of code statements?
+  Answer: All of the above.
+  
+9. What statement can be used to break out of a loop?
+  Answer: break
+  
+10. A case statement is an alternative statement to can be used to test for performing selection like
+  Answer: TRUE

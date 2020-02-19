@@ -1,0 +1,12 @@
+- List directory files with the command "ls", this stands for "List" and prints out a list of all the files within your working directory, in other words, this shows you all the contents of whatever folder you are in. 
+- One can request specific data to be listed by using the command "ls -".
+- Files and Directories that start with a "." are "hidden" files.
+- Move or rename files and directories with the command "mv", this moves one or more files or directories from one place to another. An  example of how this would be typed is "mv filename /dir1", this would be read as "move 'filename' into 'dir1'". The way we would rename files is given as an example: "mv original_program.rb renamed_program.rb". Its the same logic but without "/" becuase we're not moving it.
+- Copy files with the command "cp". This follows the same logic as above but this time, the original file is not deleted. However, if you want to copy directories, you will need to use "cp -r".
+- Create empty files with the command "touch". An example: "touch hello_world.rb".
+- Make new directories with the command "mkdir". An example: "mkdir name_of_directory".
+- Remove files with the command "rm", this deletes a file permanently, this action cannot be undone. An example: "rm hello_world.rb". Similar to "cp" (copy), if we want to delete a directory, we will have to add "-r" at the end. An example: "~/Desktop/pokemon_fan_fiction".
+- There are a few additions we can add to the end of our "rm" command:
+  + "-i": This stands for "Interactive" and prompts the user to confirm the deletion. This can stop you from accidentally deleting a file.
+  + "-f": This stands for "Force" and overrides the interactive mode. It deletes files by force.
+  + "-v": This stands for "Verbose" and shows you the progress of the files as they are being deleted.

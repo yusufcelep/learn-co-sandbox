@@ -1,0 +1,12 @@
+- The nil value means "no value." You might recall it is one of the falsey values in Ruby. It is the value that means "nothing."
+- At its heart, programming is structuring which expressions get evaluated and in what order that happens to solve problems.
+- There are three core categories of Code Statements: Sequence, Selection, and Repitition.
+- Sequence: What code runs in what order? How is that order determined? What comes before what.
+- Selection: Given the default order of sequence, can we deviate from it under certain conditions? How do we do so?
+- Repitition: Repeating an action until a certain condition is met, for example, loops.
+- Default Sequence: "every line, top to bottom, left to right as ruled by order of operations."
+- Example of a Selction is using "if" statements. This way, we disrupt the "default sequence". Selection lets us disrupt default flow by making a choice.
+- Repetition lets us disrupt default flow by repeating. The ".times" method means "do something <value> times". this is sort of like the "for" statement in JavaScript. It written like: 
+  10.times do
+  (insert code here)
+  end

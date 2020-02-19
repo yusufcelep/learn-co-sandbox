@@ -1,0 +1,9 @@
+- Ruby ranges are a set of values with a beginning and an end. There are two ways to create a Range: first, the "inclusive two-dot" written as ".." and then the "exclusive three-dot" written as "...". The difference in these is that the inclusive includes both the first and last values. The exclusive excludes (does not include) the last value. For example:
+  1..10 => 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+  and
+  1...10 => 1, 2, 3, 4, 5, 6, 7, 8, 9
+- To convert a range into an array, we will use the ".to_a" method. An example:
+  (1..10).to_a
+  would result in:
+  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  

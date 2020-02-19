@@ -1,0 +1,2 @@
+- Any time you see the $ character, you shouldn't type it in. This is just a standard way to represent a bash prompt. Yours may or may not be a $.
+- The exclamation point ("!") is often referred to as "bang".

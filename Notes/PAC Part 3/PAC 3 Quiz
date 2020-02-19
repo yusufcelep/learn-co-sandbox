@@ -1,0 +1,30 @@
+1. Local variables in Ruby are accessible from anywhere in the Ruby program.
+  Answer: FALSE
+
+2. Something that is defined in the global scope is visible in a local scope.
+  Answer: TRUE
+
+3. Does the code sample below demonstrates abstraction?
+  Answer: FALSE
+
+4. What is the most significant predictor of fewer bugs/mistakes in code?
+  Answer: Fewer lines of code.
+
+5. The structure of a method includes:
+  Answer: All of the above.
+
+6. What makes methods more dynamic, abstract, and reusable?
+  Answer: Arguments
+
+7. An argument is a value that the method expects you to pass when you call it.
+  Answer: TRUE
+
+8. A parameter is the value you pass to a method when you call the method.
+  Answer: FALSE
+  
+9. What is it called when the last expression in a method's implementation is the return value of the method?
+  Answer: Implicit Return
+  
+10. Which keyword will disrupt the execution of your method, and return the value passed to it regardless of where it appears in the method?
+  Answer: return
+  

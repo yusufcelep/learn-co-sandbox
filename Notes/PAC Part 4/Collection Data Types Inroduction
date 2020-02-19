@@ -1,0 +1,8 @@
+- Ordered lists in Ruby are called "Arrays".
+- Definition of an "Array" is a collection that holds multiple pieces of data under a single name ("Grocery List", "Countries"). In daily life, we call them "lists."
+- Arrays are written like:
+  array_name = ["element_one", "element_two", "etc"]
+- Lookup tables, or dictionaries, in Ruby, are called "Hashes".
+- Similar to Arrays, Hash's use a table as well except instead of using integers (the index numbers), they use a String or Symbol to call the element. Instead of calling these index, we will call them keys.
+- Hash's are written like:
+  collection_name = {:element_one => "value_one", :element_two => "value_two", :etc => "etc"}

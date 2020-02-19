@@ -1,0 +1,8 @@
+- IRB stands for "Interactive Ruby". You can run this from the terminal by typing "irb". Programs like IRB are known as "REPLs" which stands for "Read–Evaluate–Print Loop". The purpose of the IRB is so that we can start "talking with the computer" or start coding, almost like a playground.
+- The reason REPLs are useful is because it requires no setup. It's a ready notepad where you can copy and paste your codes, type out new one, whatever the case, the IRB will read, evaluate, and print. It's often used for "Debugging", taking out specific lines in a program to see if theyre working properly.
+- Some basic commands are:
+  + "Time.now": Returns current time.
+  + "255 / 5": Divides 255 by 5.
+  + "9 ** 2": The double * means exponents, so this is actually 9^2.
+  + "puts "Hello World"": Prints Hello World onto the screen.
+  + "exit": Leaves IRB.

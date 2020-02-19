@@ -1,0 +1,16 @@
+- To join the elements of an array together will create a single String. To do this, we will use the ".join" method. An example:
+  ["This", "is", "an", "example"].join(' ')
+  or to join them with "_":
+  ["This", "is", "an", "example"].join('_')
+- A shortcut to creating array elements is using "%w". An example:
+  %w[This is also an example]
+  would print out:
+  ["This", "is", "also", "an", "example"]
+  Another way to use this method is to capitalize the first element in an array, for example:
+  %w[this is also an example].join(" ").capitalize
+  would print out:
+  "This is also an example"
+- A shortcut similar to "%w" where we split a String into multiple strings is ".split". An example:
+  "When in the course of human events".split(" ")
+  would print out:
+  ["When", "in", "the", "course", "of", "human", "events"]
